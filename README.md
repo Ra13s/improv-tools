@@ -4,16 +4,6 @@ See repositoorium toimib keskse dokumentatsioonipaigana mitmele väikesele braus
 
 ---
 
-## Sisukord
-1. [Improv Trainer](#improv-trainer)
-2. [Random Words](#random-words)
-3. [Film Genre Improv App](#film-genre-improv-app)
-4. [Banter Practice AI (v1)](#banter-practice-ai-v1)
-5. [Sarcastic Response AI (v1)](#sarcastic-response-ai-v1)
-6. [Vocal Banter Practice AI (v1)](#vocal-banter-practice-ai-v1)
-
----
-
 ## Improv Trainer app
 Genereeri juhuslikke emotsioone, rolle ja lauseid improviseerimiseks. Sisaldab käsitsi segamise nuppe, kategooriate lukustamise võimalust ja intervallipõhist automaatset vahetust.
 - **Rakendus**: [Improv Trainer](https://ra13s.github.io/improv-trainer-app/)  
