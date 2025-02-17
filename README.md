@@ -16,6 +16,12 @@ Kuva juhuslikke sõnu valitud intervalliga. Kasulik soojenduseks, seostamisharju
 
 ---
 
+## Pantomime trainer
+Kuva juhuslikke tegevusi valitud intervallige selleks, et harjutada erinevat tüüpi pantomiimi.
+- **Rakendus**: [Random Words]([https://ra13s.github.io/random-words/](https://ra13s.github.io/pantomime-trainer/))  
+
+---
+
 ## Film Genre Improv App
 Valib juhuslikult filmi- või telesarja žanri ning kuvab kas **kõik** seadistatud klišeed või **kaks** juhuslikku korraga. Hea iseseisvaks harjutamiseks.
 - **Rakendus**: [Film Genres Improv](https://ra13s.github.io/improv-genres-tropes/)  
