@@ -4,25 +4,25 @@ See repositoorium toimib keskse dokumentatsioonipaigana mitmele väikesele braus
 
 ---
 
-## Improv Trainer app
+## Impro treener
 Genereeri juhuslikke emotsioone, rolle ja lauseid improviseerimiseks. Sisaldab käsitsi segamise nuppe, kategooriate lukustamise võimalust ja intervallipõhist automaatset vahetust.
 - **Rakendus**: [Improv Trainer](https://ra13s.github.io/improv-trainer-app/)  
 
 ---
 
-## Random Words
+## Juhuslike sõnade äpp
 Kuva juhuslikke sõnu valitud intervalliga. Kasulik soojenduseks, seostamisharjutusteks.
 - **Rakendus**: [Random Words](https://ra13s.github.io/random-words/)  
 
 ---
 
-## Pantomime trainer
+## Pantomiimi treener
 Kuva juhuslikke tegevusi valitud intervallige selleks, et harjutada erinevat tüüpi pantomiimi.
 - **Rakendus**: [Pantomime trainer](https://ra13s.github.io/pantomime-trainer/)  
 
 ---
 
-## Film Genre Improv App
+## Filmi žanri äpp
 Valib juhuslikult filmi- või telesarja žanri ning kuvab kas **kõik** seadistatud klišeed või **kaks** juhuslikku korraga. Hea iseseisvaks harjutamiseks.
 - **Rakendus**: [Film Genres Improv](https://ra13s.github.io/improv-genres-tropes/)  
 
@@ -42,6 +42,6 @@ Tekstipõhine chatGPT vahed, mis genereerib erinevat tüüpi huumooriga sarkasti
 
 ---
 
-## Vocal Banter Practice AI (v1) (ainult inglise keeles)
-Sarnaneb „Banter Practice AI-le“, kuid on kohandatud **suulise** banteri harjutamiseks chatGPT häälsisendiga (inglise keel ainult).  
+## Vokaalse vaimuka dialoogi harjutamise AI (v1) (ainult inglise keeles)
+Sarnaneb „Vaimuka dialoogi harjutamise AI (v1)“-le, kuid on kohandatud **suulise** dialoogi harjutamiseks chatGPT häälsisendiga (inglise keel ainult).  
 - **Link**: [Vocal Banter Practice AI (v1)](https://chatgpt.com/g/g-5vOU0wHZN-vocal-banter-practice-ai-v1)  
