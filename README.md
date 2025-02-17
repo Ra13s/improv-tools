@@ -6,13 +6,13 @@ See repositoorium toimib keskse dokumentatsioonipaigana mitmele väikesele braus
 
 ## Impro treener
 Genereeri juhuslikke emotsioone, rolle ja lauseid improviseerimiseks. Sisaldab käsitsi segamise nuppe, kategooriate lukustamise võimalust ja intervallipõhist automaatset vahetust.
-- **Rakendus**: [Improv Trainer](https://ra13s.github.io/improv-trainer-app/)  
+- **Rakendus**: [Improv Trainer](https://ra13s.github.io/improv-trainer-app?lang=et)  
 
 ---
 
 ## Juhuslike sõnade äpp
 Kuva juhuslikke sõnu valitud intervalliga. Kasulik soojenduseks, seostamisharjutusteks.
-- **Rakendus**: [Random Words](https://ra13s.github.io/random-words/)  
+- **Rakendus**: [Random Words](https://ra13s.github.io/random-words?lang=et)  
 
 ---
 
@@ -24,7 +24,7 @@ Kuva juhuslikke tegevusi valitud intervallige selleks, et harjutada erinevat tü
 
 ## Filmi žanri äpp
 Valib juhuslikult filmi- või telesarja žanri ning kuvab kas **kõik** seadistatud klišeed või **kaks** juhuslikku korraga. Hea iseseisvaks harjutamiseks.
-- **Rakendus**: [Film Genres Improv](https://ra13s.github.io/improv-genres-tropes/)  
+- **Rakendus**: [Film Genres Improv](https://ra13s.github.io/improv-genres-tropes?lang=et)  
 
 ---
 
