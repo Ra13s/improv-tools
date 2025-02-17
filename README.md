@@ -18,7 +18,7 @@ Kuva juhuslikke sõnu valitud intervalliga. Kasulik soojenduseks, seostamisharju
 
 ## Pantomiimi treener
 Kuva juhuslikke tegevusi valitud intervallige selleks, et harjutada erinevat tüüpi pantomiimi.
-- **Rakendus**: [Pantomime trainer](https://ra13s.github.io/pantomime-trainer/)  
+- **Rakendus**: [Pantomime trainer](https://ra13s.github.io/pantomime-trainer?lang=et)   
 
 ---
 
