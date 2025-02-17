@@ -35,7 +35,7 @@ Tekstipõhine chatGPT „vestluspartner”, mis alustab juhusliku stseeniga ning
 
 ---
 
-## Sarkastilise vastuse AO (v1)
+## Sarkastilise vastuse AI (v1)
 Tekstipõhine chatGPT vahed, mis genereerib erinevat tüüpi huumooriga sarkastilisi vastuseid. Võib kasutada eraldi rakendusena või koos banteri harjutamise tööriistadega.
 - **Link (eestikeelne)**: [Sarkastilise vastuse AO (v1)](https://chatgpt.com/g/g-67b384983c888191a4f355d445448212-sarkastilise-vastuse-ai-v1)
 - **Link (ingliskeelme)**: [Sarcastic Response AI (v1)](https://chatgpt.com/g/g-04tJ9RcPC-sarcastic-response-ai-v1)
