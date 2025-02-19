@@ -31,14 +31,14 @@ Valib juhuslikult filmi- või telesarja žanri ning kuvab kas **kõik** seadista
 ## Vaimuka dialoogi harjutamise AI (v1)
 Tekstipõhine chatGPT „vestluspartner”, mis alustab juhusliku stseeniga ning vastab valitud stiilis (sarkastiline, eneseirooniline, kuiv, absurdne). Pakub tagasisidet, et aidata sul aja jooksul tekstilist dialoogi oskust arendada.
 - **Link (eestikeelne)**: [Vaimuka dialoogi harjutamise AI (v1)](https://chatgpt.com/g/g-67b3829d68708191980ac8cd2a657dd7-vaimuka-dialoogi-harjutamise-ai-v1)  
-- **Link (ingliskeelme)**: [Banter Practice AI (v1)](https://chatgpt.com/g/g-TMrAis1i8-banter-practice-ai-v1)  
+- **Link (ingliskeelne)**: [Banter Practice AI (v1)](https://chatgpt.com/g/g-TMrAis1i8-banter-practice-ai-v1)  
 
 ---
 
 ## Sarkastilise vastuse AI (v1)
 Tekstipõhine chatGPT vahed, mis genereerib erinevat tüüpi huumooriga sarkastilisi vastuseid. Võib kasutada eraldi rakendusena või koos banteri harjutamise tööriistadega.
 - **Link (eestikeelne)**: [Sarkastilise vastuse AO (v1)](https://chatgpt.com/g/g-67b384983c888191a4f355d445448212-sarkastilise-vastuse-ai-v1)
-- **Link (ingliskeelme)**: [Sarcastic Response AI (v1)](https://chatgpt.com/g/g-04tJ9RcPC-sarcastic-response-ai-v1)
+- **Link (ingliskeelne)**: [Sarcastic Response AI (v1)](https://chatgpt.com/g/g-04tJ9RcPC-sarcastic-response-ai-v1)
 
 ---
 
