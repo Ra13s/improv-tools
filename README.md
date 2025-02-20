@@ -29,12 +29,14 @@ Valib juhuslikult filmi- või telesarja žanri ning kuvab kas **kõik** seadista
 ---
 
 ## Vaimuka dialoogi harjutamise AI (v1)
-Tekstipõhine chatGPT „vestluspartner”, mis alustab juhusliku stseeniga ning vastab valitud stiilis (sarkastiline, eneseirooniline, kuiv, absurdne). Pakub tagasisidet, et aidata sul aja jooksul tekstilist dialoogi oskust arendada.
-- **Link (eestikeelne)**: [Vaimuka dialoogi harjutamise AI (v1)](https://chatgpt.com/g/g-67b3829d68708191980ac8cd2a657dd7-vaimuka-dialoogi-harjutamise-ai-v1)  
-- **Link (ingliskeelne)**: [Banter Practice AI (v1)](https://chatgpt.com/g/g-TMrAis1i8-banter-practice-ai-v1)  
+Interaktiivne vestluspartner dialoogi oskuste arendamiseks:
+- Alustab juhusliku stseeniga
+- Kohandatav vestlusstiil (sarkastiline, eneseirooniline, kuiv, absurdne)
+- Pakub konstruktiivset tagasisidet
+- **Eestikeelne**: [Vaimuka dialoogi harjutamise AI (v1)](https://chatgpt.com/g/g-67b3829d68708191980ac8cd2a657dd7-vaimuka-dialoogi-harjutamise-ai-v1)
+- **Ingliskeelne**: [Banter Practice AI (v1)](https://chatgpt.com/g/g-TMrAis1i8-banter-practice-ai-v1)
 
-Infoks - ChatGPT on küll piisavalt hea ingliskeelseks harjutamiseks, kuid eestikeelse huumori mõistmisel on palju parem [Claude AI](https://claude.ai/new).  
-Kuna [Claude'ga](https://claude.ai/new) ei ole võimalik luua avalikku boti, siis võib järgneva promptid kopeerida otse chat aknasse (või luua seal projekt)
+**NB!** Eestikeelse huumori mõistmisel on [Claude AI](https://claude.ai/new) märgatavalt parem kui ChatGPT. Kuna Claude'i puhul pole võimalik luua avalikku boti, saab alloleva prompti kopeerida otse vestlusaknasse:
 
 ```
 Let’s have some fun with witty banter. 
