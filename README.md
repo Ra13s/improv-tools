@@ -5,7 +5,7 @@ See repositoorium toimib keskse dokumentatsioonipaigana mitmele väikesele braus
 ---
 
 ## Impro treener
-Genereeri juhuslikke emotsioone, rolle ja lauseid improviseerimiseks. Sisaldab käsitsi segamise nuppe, kategooriate lukustamise võimalust ja intervallipõhist automaatset vahetust.
+Esita juhuslikke emotsioone, rolle ja lauseid improviseerimiseks. Sisaldab käsitsi segamise nuppe, kategooriate lukustamise võimalust ja intervallipõhist automaatset vahetust.
 - **Rakendus**: [Improv Trainer](https://ra13s.github.io/improv-trainer-app?lang=et)  
 
 ---
